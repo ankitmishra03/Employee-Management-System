@@ -1,0 +1,436 @@
+function storeDefault(){
+  // dummy data of 20 persons are stored here
+  var name="Ankit Mishra";
+  var age="21";
+  var dept="IT";
+  var blood="A+";
+  var addr="Konnagar";
+  var contact="+91949494994";
+   var data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+// console.log("HI");
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Bunty ";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Rahul Mishra2";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Aman Jha";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Ajay Kumar";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Anil Rathod";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Ankit Mishra6";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Ankit Mishra7";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Ankit Mishra8";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Ankit Mishra9";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Ankit Mishra10";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Ankit 11";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Ankit 12";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Ankit 13";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Ankit 14";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Ankit 15";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Ankit 16";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Ankit 17";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Ankit 18";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+  name="Ankit 19";
+  age="21";
+  dept="IT";
+  blood="A+";
+  addr="Konnagar";
+  contact="+91949494994";
+   data = {
+    name: name,
+    age: age,
+    dept:dept,
+    blood:blood,
+    addr:addr,
+    contact:contact
+}
+window.localStorage.setItem(name,JSON.stringify(data));  
+}
+var arr=[];
+window.onload =function(){ 
+  // if my local storage is not empty I will retrieve the data as an object
+  // place the data in the table and I have two buttons- edit and delete
+  //which onclick have the corresponding functions
+  if(window.localStorage.length>0)
+  {
+    var mytable="";
+       items={ ...localStorage};
+       for(var key in items)
+       {
+        arr=JSON.parse(window.localStorage.getItem(key));  
+      mytable+='<tr id=\''+arr.name+'\' contenteditable="false">';
+        mytable+='<td >'+arr.name+'</td>';
+        mytable+="<td >"+arr.age+"</td>";
+        mytable+="<td>"+arr.dept+"</td>";
+        mytable+="<td>"+arr.blood+"</td>";
+        mytable+="<td>"+arr.addr+"</td>";
+        mytable+="<td>"+arr.contact+"</td>"; 
+        mytable+='<td><button onclick="editFunction(\''+arr.name+ '\')" type="button" class="btn btn-group btn-warning edit">Edit</button></td>';     
+        mytable+='<td><button onclick="deleteFunction(\''+arr.name+ '\')" type="button" class="btn btn-group btn-danger">Delete</button></td>';        
+        console.log(arr.name);  
+        mytable+="</tr>"; 
+       }
+    document.getElementById("my-table").innerHTML += mytable;
+    
+  }
+  else
+  {
+    storeDefault();
+  }
+  //pagination
+  const rowsPerPage = 5;
+	const rows = $('#my-table tbody tr');
+	const rowsCount = rows.length;
+	const pageCount = Math.ceil(rowsCount / rowsPerPage); // avoid decimals
+	const numbers = $('#numbers');
+	
+	// Generate the pagination.
+	for (var i = 0; i < pageCount; i++) {
+		numbers.append('<li><a href="#">' + (i+1) + '</a></li>');
+	}
+		
+	// Mark the first page link as active.
+	$('#numbers li:first-child a').addClass('active');
+
+	// Display the first set of rows.
+	displayRows(1);
+	
+	// On pagination click.
+	$('#numbers li a').click(function(e) {
+		var $this = $(this);
+		
+		e.preventDefault();
+		
+		// Remove the active class from the links.
+		$('#numbers li a').removeClass('active');
+		
+		// Add the active class to the current link.
+		$this.addClass('active');
+		
+		// Show the rows corresponding to the clicked page ID.
+		displayRows($this.text());
+	});
+	
+	// Function that displays rows for a specific page.
+	function displayRows(index) {
+		var start = (index - 1) * rowsPerPage;
+		var end = start + rowsPerPage;
+		
+		// Hide all rows.
+		rows.hide();
+		
+		// Show the proper rows for this page.
+		rows.slice(start, end).show();
+	}
+    
+};
+function deleteFunction(keyElement)
+{
+  //remove the item from local storage
+  localStorage.removeItem(keyElement); 
+  //updates the table
+  location.reload();                           
+} 
+function editFunction(editKey)
+{
+  //changes save button to edit and save the updated data in local storage
+  if(document.getElementById(editKey).getElementsByClassName("edit")[0].innerHTML==="Save")
+  {
+    document.getElementById(editKey).getElementsByClassName("edit")[0].innerHTML='Edit';
+    document.getElementById(editKey).getElementsByClassName("edit")[0].classList.remove('btn-success');
+    document.getElementById(editKey).getElementsByClassName("edit")[0].classList.add('btn-warning');
+    document.getElementById(editKey).contentEditable="false";
+    var newTable=document.getElementById(editKey).getElementsByTagName("td");
+    var name = newTable[0].innerHTML;
+    var age = newTable[1].innerHTML;
+    var dept = newTable[2].innerHTML; 
+    var blood = newTable[3].innerHTML;
+    var addr = newTable[4].innerHTML;
+    var contact = newTable[5].innerHTML;
+       details = {
+      name: name,
+      age: age,
+      dept:dept,
+      blood:blood,
+      addr:addr,
+      contact:contact
+  }
+
+  window.localStorage.setItem(name,JSON.stringify(details));  
+      if(editKey!=name)
+      {
+        deleteFunction(editKey);
+      }
+      location.reload(); 
+  }
+  else
+  {
+    console.log(editKey);
+    document.getElementById(editKey).contentEditable="true";
+    document.getElementById(editKey).getElementsByClassName("edit")[0].innerHTML='Save';
+    document.getElementById(editKey).getElementsByClassName("edit")[0].classList.remove('btn-warning');
+    document.getElementById(editKey).getElementsByClassName("edit")[0].classList.add('btn-success');
+  }
+}
+
+
+
+
+
+
